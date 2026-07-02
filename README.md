@@ -10,7 +10,7 @@ Developed as a collaborative project between the University and Tulkarm Municipa
 *   **Architecture:** Clean Architecture
 
 ## Key Technical Challenges & Solutions
-*   **Legacy Transition:** Successfully replaced an outdated system by gathering requirements from library staff to ensure a seamless transition and zero data loss.
+*   **Legacy Transition:** Successfully replaced an outdated system by gathering requirements from library staff.
 *   **Advanced Dynamic Authorization (RBAC + Group-based):** Instead of static, hard-coded roles, I designed a dynamic Group-Based Access Control system. The Super Admin can create custom groups and assign specific granular permissions to each, making the system highly flexible and scalable.
 *   **API Security & Stability:** 
     *   Implemented **JWT (JSON Web Tokens)** for secure, stateless authentication.
@@ -23,12 +23,13 @@ Developed as a collaborative project between the University and Tulkarm Municipa
 *   **High Performance:** Optimized database queries and API response times.
 
 ## My Role
-As the Lead Developer for the backend and database architecture, I was responsible for:
-*   Designing the relational database schema.
-*   Developing secure and scalable RESTful APIs.
-*   Implementing the complex security and authorization logic.
-*   Overseeing the project's overall technical structure and integration between frontend and backend.
+I served as the **Backend and Database Developer** for this project, taking ownership of the system's core architecture and business logic. My key responsibilities included:
 
+* **Database Architecture:** Architected and implemented the relational database schema, ensuring data integrity and optimized query performance.
+* **API Development:** Developed secure and scalable RESTful APIs using ASP.NET Core, focusing on seamless frontend-backend communication.
+* **Security & Authorization:** Engineered the dynamic, group-based access control system (RBAC) to handle complex institutional permissions with maximum flexibility.
+* **System Integration:** Actively coordinated technical integration between frontend and backend components, ensuring a cohesive and high-performing system.
+* 
 ## Live Demo
 Currently, the system is deployed within the institution's private infrastructure for internal management. A public live demo is **Coming Soon**. 
 
