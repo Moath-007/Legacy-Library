@@ -29,7 +29,7 @@ I served as the **Backend and Database Developer** for this project, taking owne
 * **API Development:** Developed secure and scalable RESTful APIs using ASP.NET Core, focusing on seamless frontend-backend communication.
 * **Security & Authorization:** Engineered the dynamic, group-based access control system (RBAC) to handle complex institutional permissions with maximum flexibility.
 * **System Integration:** Actively coordinated technical integration between frontend and backend components, ensuring a cohesive and high-performing system.
-* 
+* This project was a joint effort. I had the pleasure of working alongside a brilliant developer, whose dedication and technical contributions were instrumental in bringing this system to life. Our teamwork, marked by constant knowledge-sharing and clean coding practices, was a key factor in the project's success.
 ## Live Demo
 Currently, the system is deployed within the institution's private infrastructure for internal management. A public live demo is **Coming Soon**. 
 
